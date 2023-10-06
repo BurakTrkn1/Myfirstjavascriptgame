@@ -1,0 +1,47 @@
+#container {
+  width: 85rem;
+  height: 58rem;
+  border: 2px solid;
+  background: linear-gradient(360deg, #034e2fb9, #0f0f0fce);
+}
+#navs div {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  border-radius: 100px;
+  background-color: skyblue;
+  position: relative;
+  margin: auto;
+}
+
+#container p {
+  float: right;
+  color: green;
+}
+p span {
+  width: 50px;
+  margin-left: 20px;
+}
+#squire {
+  background: linear-gradient(360deg, #3ddf9bb9, #d8db17ce);
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.box {
+  background: linear-gradient(360deg, #3ddf9bb9, #d8db17ce);
+}
+
+.error {
+  width: 35rem;
+  height: 15rem;
+  background: linear-gradient(180deg, #0f0f0fce, #d8db17ce);
+  margin: auto;
+}
+.error p {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3rem;
+  color: white;
+}
